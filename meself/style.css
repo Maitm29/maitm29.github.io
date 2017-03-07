@@ -1,0 +1,53 @@
+body{
+	background-image:url("starwars.jpg");
+    background-repeat:repeat-x,repeat-y; 
+	background-size:cover;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+header{
+	
+	padding: 10px 0;
+}
+h1 {
+	font-style:italic;
+	color: #00ff00;
+	font-size: 32px;
+}
+}
+#diy{
+text-align:left to right;
+}
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+	
+	color: #00ff00;
+	font-size: 32px;
+}
+
+h3 {
+	color: #ffffff;
+	font-size: 56px; 
+}
+
+footer{
+	font-size: 12px;
+	padding: 20px 0;
+}
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+a.col-sm-1{
+	color:white;
+}
