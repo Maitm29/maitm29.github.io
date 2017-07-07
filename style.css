@@ -413,26 +413,6 @@ body.blog     header .arrow { left: 870px; display: block;}
   padding: 0 20px; 
 }
 
-.follow-me {
-  overflow: visible;
-  height: 1px;
-  margin: 30px 20px;
-  border-left: 60px solid black; 
-  border-right: 60px solid black;
-}
-.follow-me a { 
-  display: inline-block;
-  position: relative;
-  top: -7px;
-  left: 10px;
-  vertical-align: middle;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #333;
-}
-.follow-me a:hover { color: #666; }
-
-
 
 /************************************************************
  * The About page.
