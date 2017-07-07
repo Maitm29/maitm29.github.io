@@ -7,14 +7,14 @@ body {
   padding: 0;
 
   background-color: #525855;
-  background-image: url(../images/bg-body.gif);
+  background-image: url(../bg-body.gif);
   background-repeat: repeat;
 }
 #page { 
   width: 100%;
   min-width:968px;
   overflow: hidden;
-  background-image: url(../images/maplines2.png);
+  background-image: url(../maplines2.png);
   background-repeat: no-repeat;
   background-position: center top;
 }
@@ -131,7 +131,7 @@ body.other    #links .other    a {
   display: block; 
   width: 83px; 
   height: 84px; 
-  background-image: url(../images/logo.png); 
+  background-image: url(../logo.png); 
   margin-left: -20px;
 /*  margin-left: auto; 
   margin-right: auto; */
@@ -171,7 +171,7 @@ body.other    #links .other    a {
 #links .stories, 
 #links .software,
 #links .other { 
-  background-image: url(../images/bullet.png);
+  background-image: url(../bullet.png);
   background-repeat: no-repeat;
 }
 #links .stories { background-position: 0px 5px; }
@@ -390,9 +390,8 @@ body.blog     header .arrow { left: 870px; display: block;}
 }
 
 #contact a:hover { color: #666; }
-#contact .email  a { background-image: url(../images/mail.png); background-position: 0 0; }
-#contact .follow a { background-image: url(../images/twitter.png); background-position: 0 0; }
-#contact .key    a { background-image: url(../images/key.png); background-position: 0 0; }
+#contact .email  a { background-image: url(../mail.png); background-position: 0 0; }
+#contact .follow a { background-image: url(../twitter.png); background-position: 0 0; }
 
 #twitter { 
   width: 248px; 
