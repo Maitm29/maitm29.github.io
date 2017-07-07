@@ -413,33 +413,6 @@ body.blog     header .arrow { left: 870px; display: block;}
   padding: 0 20px; 
 }
 
-/* this is the div containing time, reply, and retweet for each tweet */
-#twitter .tweet-links { 
-  border-top: 1px solid #999; 
-  border-bottom: 1px solid #999; 
-  margin-top: 10px;
-  margin-bottom: 20px;
-  padding: 2px 0;
-}
-
-#twitter .tweet_time, 
-#twitter .tweet_action { 
-  font-size: 10px; 
-  line-height: 15px; 
-  padding-right: 5px; 
-}
-#twitter .tweet_action { padding-left: 5px; }
-
-/* The loading message that appears before tweets are loaded. */
-#twitter .loading { margin: 20px; }
-
-#twitter .at, 
-#tweets a { 
-  color: #777; 
-  text-decoration: none;
-}
-#tweets a:hover { color: #333; }
-
 .follow-me {
   overflow: visible;
   height: 1px;
