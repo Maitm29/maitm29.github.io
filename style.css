@@ -391,7 +391,7 @@ body.blog     header .arrow { left: 870px; display: block;}
 
 #contact a:hover { color: #666; }
 #contact .email  a { background-image: url(../mail.png); background-position: 0 0; }
-#contact .follow a { background-image: url(../twitter.png); background-position: 0 0; }
+#contact .follow a { background-image: url(../twitter.jpg); background-position: 0 0; }
 
 #twitter { 
   width: 248px; 
