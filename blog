@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+  <meta name="author" content="VAD3R" />
+	<title>VAD3R >> About </title>
+	
+	<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  	<![endif]-->
+
+  <link href="https://fonts.googleapis.com/css?family=Lato:300|Vollkorn|Nobile" rel="stylesheet" type="text/css">
+	
+	<link rel="stylesheet" type="text/css" href="/normalize.css">
+  <link media="Screen" rel="stylesheet" type="text/css" href="/style.css" class="cssfx">
+  <link media="handheld, only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="/mobile.css" type="text/css" rel="stylesheet" class="cssfx" />
+
+  	<!--[if IEMobile]>
+  <link rel="stylesheet" type="text/css" href="/mobile.css" media="screen" />
+  	<![endif]-->
+   
+   
+   <link rel="stylesheet" type="text/css" href="/pygments.css">
+   
+   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</head>
+
+<body class="blog">
+  <div id="page">
+    <div id="container">
+
+      <img id="island" src="/island.png" />
+
+      <header>
+	<div id="offset">
+        <nav id="links">
+	  <div id="offstamp">
+          <a class="home" href="/index.html">Home</a>
+	  </div>
+      		<ul>
+	    <li class="about"><a href="/index.html">About</a></li>
+	    <li class="stories"><a href="/disclosures.html">Endeavour</a></li>
+            <li class="blog"><a href="/blog/">Blog</a></li>
+            <li class="software"><a href="/software.html">Software</a></li>
+            <li class="other"><a href="/projects.html">Projects</a></li>
+	       </ul>
+        </nav>
+   </div>
+	
+       <img class="arrow" src="/arrow.png" alt="Arrow">
+     </header>
+	    
+	<section class="main content-area">
+	
+          <a href="/blog/">
+	    <img alt="Blog Bookmark Icon" class="bookmark" src="/bookmark_blog.png">
+	  </a>
+	
+
+	<div class="rss"><a href="rss.xml"><img class="feed" src="../rss.png"/></a></div>
+  <h1>Blog</h1>
+
+
+  <article>
+    <h2 class="unspaced"><a href="/blog/anarchist">Anarchist 101</a></h2>
+    <h3 class="date">07 July 2017</h3>
+    <p>
+      
+      <p>The thought of running free and wild has always been there with me and increased day by day, for which I am
+      forever gratefull to everyone who influenced me from my childhood days and continue to do so till now!</p>
+
+<p>Whenever I come across the so called <em>Nationalists</em> or indivuals who hate chaos, I usually thought or I get this immediate 
+feeling that I always wanted to be an anarchist!. Sometimes I actually confront myself with the fact that well I am an anarchist. Well
+the truth is I guess I don`t like other people or organizations to govern our thoughts or to give us the directions we need to go! I think
+we are quite capable in deciding what`s good for us and everyone around us.</p>
+      
+      <a href="/blog/anarchist"><em>Read more...</em></a>
+      
+    </p>
+  </article>
+  
+      </section><!-- /.main -->
+       
+       <aside id="info" class="content-area">
+	<h1 title="VAD3R">VAD3R</h1>
+        <img class="portrait" src="/mini.jpg" alt="Photo of Me">
+        <aside id="contact">
+          <ul>
+	      <li class="email" ><a href="">VAD3R_95@protonmail.com</a></li>
+	      <li class="follow"><a href="https://www.linkedin.com/in/maitreya-misra-092a7b131/" target="_blank">@VAD3R</a></li>	 
+           </ul>
+        </aside>
+      </aside>		  
+	 <footer>
+        <span class="copyright">&copy; 2017 VAD3R</span>
+        <ul>
+            <li class="about"><a href="/index.html">About</a></li>
+	    <li class="stories"><a href="/disclosures.html">Endeavour</a></li>
+            <li class="blog"><a href="/blog/">Blog</a></li>
+            <li class="software"><a href="/software.html">Software</a></li>
+            <li class="other"><a href="/projects.html">Projects</a></li>
+        </ul>
+	 </footer>
+   </div><!-- /#container -->
+  </div><!-- /#page -->
+</body> 
+</html>
