@@ -1,3 +1,6 @@
 # maitm29.github.io
 My website
-( styling and layout from thoughtcrime.org )
+
+( CSS styling and layout from https://github.com/necolas/normalize.css/ ,
+ w3schools.org , thoughtcrime.org )
+
